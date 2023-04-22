@@ -10,7 +10,7 @@ class CalculadoraTest {
     static Calculadora miCalculadora;
 
     @BeforeAll
-    public static void setUpClass(){
+    public static void  setUpClass(){
         miCalculadora = new Calculadora();
     }
 

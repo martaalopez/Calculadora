@@ -31,7 +31,5 @@ public class Calculadora {
             }
             return Math.sqrt(radicando);
         }
-
-
 }
 
